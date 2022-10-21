@@ -1,0 +1,143 @@
+*{
+    line-height: 1.5;
+}
+
+
+body{
+    margin: 0;
+}
+
+.navigation{
+    line-height:0.5;
+    margin:0;
+    background-color: #002B5B;
+    border-width: 10px;
+    padding:7px 50px 7px 50px;
+}
+
+.main-nav{
+    display: inline-block;
+}
+.logo{
+    color: aliceblue;
+    display: inline-block;
+}
+
+.nav-bar{
+   display: inline-block;
+   color: aliceblue;
+   padding: 15px;
+}
+
+.nav-bar ul{
+    margin-left:900px;
+}
+
+.nav-bar li{
+    font-size: 1.2em;
+    list-style: none;
+    display: inline-block;
+    padding: 15px;
+}
+
+.nav-bar a{
+    color: white;
+    text-decoration: none;;
+}
+.btn-search{
+    padding-right: 12px;
+    font-size:1.2em;
+}
+em{
+    color: red;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+}
+
+button{
+    font-size: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: black;
+    border-width: 5px;
+    border-bottom-style:solid;
+    padding: 15px 35px 15px 35px ;
+    border-style: solid;
+    border-color: #256D85;
+    border-bottom-color: #8FE3CF;
+}
+
+button:hover{
+    background-color: #8FE3CF;
+   border-color: black;}
+section{
+    padding: 1px;
+}
+
+
+span{
+    color:red;
+}
+
+
+.filtre{
+    background-color:#2B4865 ;
+    color: white;
+    display: inline-block;
+    padding: 10px;
+    text-align: center;
+}
+
+
+br{
+    background-color: white;
+}
+
+.item-covoare{
+    background-color: #8FE3CF;
+}
+article{
+    background-color: #256D85;
+    text-align: center;
+    display: inline-block;
+    line-height: 1.5;
+    width: 500px;
+    padding-top: 50px;
+    padding-right: 10px;
+    margin-right: 50px;
+    padding-bottom: 50px;
+}
+article footer{
+    line-height: 1.5;
+}
+
+h2{
+    color: white;
+}
+
+.canapele{
+    background-color:#002B5B;
+}
+
+section{
+    text-align: center;
+    padding: 100px;
+}
+
+h4{
+    color: white;
+}
+article p{
+    color: white;
+}
+
+.copyright{
+    padding: 10px;
+    background-color: #256D85;
+    color: white;
+    text-align: center; 
+    font-size: 20px;
+}
